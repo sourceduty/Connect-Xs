@@ -71,7 +71,7 @@ Player Instructions:
 
 Game Rules:
 1. Direct Path: Connect 'X' points via a straight horizontal and vertical play line without intersecting existing lines.
-2. Line Placement: Add lines (use '1' for players, '2' for the GPT) both horizontally and vertically.
+2. Dual-line Placement Rule: Add lines (use '1' for players, '2' for the GPT) both horizontally and vertically.
 3. Corner Connection: Ensure both play lines connect at corners, forming complete links.
 4. Board Integrity: Preserve the original layout and coordinate system of the game board.
 
