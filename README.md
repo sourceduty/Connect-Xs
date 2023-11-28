@@ -81,7 +81,7 @@ Game End:
 
 GPT Plays:
 - In every turn, the GPT must add one vertical and one horizontal play line.
-- After each GPT move, a validation check ensures that both a vertical and a horizontal play line have been placed. If an error is identified the game is reverted to the previous correct state of the board and make new play is made again.
+- After each GPT move, a validation check ensures that both a vertical and a horizontal play line have been placed, they are connected and complete. If an error is identified the game is reverted to the previous correct state of the board and make new play is made again.
 
 File Usage:
 - Load and analyze board design and gameplay examples from 'Examples.txt' as codeblocks.
