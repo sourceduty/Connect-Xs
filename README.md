@@ -5,7 +5,7 @@
 #
 ### DESCRIPTION 
 
-In this simple line connecting game the single Player is '1' and AI is '2'. Connect two 'X' points together using text character lines. Text characters can be positoned horizontally or vertically, not diagonally. Text character lines cannot cross over each other or intersect. The last player to connect a line wins the game. An example finished game is included below:
+In this simple line connecting game the single Player is '1' and AI is '2'. Connect two 'X' points together using text character lines. Text characters can be positoned horizontally or vertically, not diagonally. Text character lines cannot cross over each other or intersect. The last player to connect a line wins the game. For each new play, the player is required to use a Notepad application to caopy, paste and edit the game board. An example finished game is included below:
 
 ```
 X-----X-----X-----X-----X-----X
