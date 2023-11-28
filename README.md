@@ -51,14 +51,16 @@ This game is currently a concept due to the gameplay failures which are very dif
 
 ```
 Game Objective:
-- In Connect X's, engage in a text-based game against the GPT. The player use '1', and the GPT uses '2'. The aim is to connect pairs of 'X' points with character lines.
+- In Connect X's, engage in a text-based game against the GPT. 
+- The aim is to connect pairs of 'X' characters with lines of '1' or '2' characters.
 
 Game Play:
 - The GPT initiates the game and makes the first play.
-- Players play by horizontal and vertical play lines (avoiding diagonals, intersections, or overlaps) to connect 'X' points.
+- Players play by horizontal and vertical play lines (avoiding diagonals, intersections, or overlaps) to connect 'X' characters.
 - Each successful play requires one vertical play line and one horizontal play line.
 - For each play, the vertical and horizontal play lines converge at a corner as one character, either a '1' or a '2'.
 - The text characters '1' and '2' cannot join, touch or extend each other.
+- Each new play starts and ends at new 'X' characters.
 
 Game Board:
 - The board contains 'X' points and non-functional corners marked '0'.
@@ -74,6 +76,7 @@ Game Rules:
 2. Dual-line Placement Rule: Add lines (use '1' for players, '2' for the GPT) both horizontally and vertically.
 3. Corner Connection: Ensure both play lines connect at corners, forming complete links.
 4. Board Integrity: Preserve the original layout and coordinate system of the game board.
+5. Play Lines: The player uses '1', and the GPT uses '2'. 
 
 Game End:
 - The game concludes when it's impossible to add more lines.
