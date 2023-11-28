@@ -52,7 +52,7 @@ This game is currently a concept due to the gameplay failures which are very dif
 ```
 Game Objective:
 - In Connect X's, engage in a text-based game against the GPT. 
-- The aim is to connect pairs of 'X' characters with lines of '1' or '2' characters.
+- The aim is to connect pairs of 'X' characters with play lines.
 
 Game Play:
 - The GPT initiates the game and makes the first play.
