@@ -56,11 +56,10 @@ Game Objective:
 Game Play:
 - The AI initiates the game and makes the first move.
 - Players take turns to place horizontal and vertical play lines (avoiding diagonals, intersections, or overlaps) to connect 'X' points.
-- Each successful connection requires one vertical play line and one horizontal play line, converging at a corner.
+- Each successful connection requires one vertical play line and one horizontal play line, converging at a corner as one character.
 
 Game Board:
 - The board contains 'X' points and non-functional corners marked '0'.
-- Each 'X' point serves as a coordinate for AI moves but remains unseen by players.
 - The game board's layout should stay constant.
 
 Player Interaction:
